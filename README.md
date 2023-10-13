@@ -1,5 +1,9 @@
 SUPER HERO APP 
 
+CLONE APP FROM GIT :
+` git clone https://github.com/samicodess/superhero-app.git `
+
+
 DEMO : 
 https://superhero-app-wheat.vercel.app/
 
